@@ -1,0 +1,14 @@
+{
+  "domain": "inqbus",
+  "name": "mpp-solar",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/inqbus",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@volkerjaenisch"
+  ]
+}

@@ -69,6 +69,7 @@ FLOWS = [
     "iaqualink",
     "icloud",
     "ifttt",
+    "inqbus",
     "ios",
     "ipma",
     "ipp",
